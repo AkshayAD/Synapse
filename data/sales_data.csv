@@ -1,0 +1,8 @@
+Date,Product,Units Sold,Price,Total
+2023-10-01,Widget A,100,10,1000
+2023-10-01,Widget B,150,15,2250
+2023-10-02,Widget A,120,10,1200
+2023-10-02,Widget C,200,8,1600
+2023-10-03,Widget B,180,15,2700
+2023-10-03,Widget C,210,8,1680
+2023-10-04,Widget A,90,10,900
